@@ -1,0 +1,54 @@
+COSA DEVE ESSERE CAPACE UN INTELLIGENZA ARTIFICIALE PER DEFINIRSI AUTO MIGLIORANTE "SELF-IMPROVING"
+
+1. [ METACOGNIZIONE ] AUTO-RIFLESSIONE E AUTOVALUTAZIONE
+
+2. OBIETTIVI E SCOPI AUTONOMI
+
+3. APPRENDIMENTO PIENO E TRASFERIMENTO DI CONOSCENZE
+
+4. AUTO-MODIFICA E RIPROGETTAZIONE
+
+5. INTERAZIONE E COMPRENSIONE DEL MONDO
+
+6. ROBUSTEZZA E RESILIENZA
+
+
+
+Punto 1. Capacità di monitorare le proprie prestazioni, comprendere perchè ha avuto successo o ha fallito.
+Questo implica l'analisi dei propri processi interni e delle decisioni prese.
+Deve essere in grado di riconoscere dove le sue conoscenze o le sue capacità sono insufficienti per un determinato
+compito o per obiettivi più ampi.
+Deve comprendere il suo stato interno in termini di risorse computazionali, stato di apprendimento, ecc.
+
+
+Punto 2. Capacità di stabilire nuovi obbiettivi formulando nuovi programmi basati sulla sua comprensione del mondo 
+e delle sue capacità per migliorare le proprie prestazioni future.
+Deve essere in grado di prioritizzare e bilanciare obbiettivi diversi, anche quando sono in conflitto.
+Un sistema che non è solo spinto da ricompense esterne, ma ha un qualche tipo di curiosità o desiderio di esplorare
+
+
+Punto 3. Meta-apprendimento ovvero la capacità di imparare a imparare. non solo acquisire nuove conoscenze o abilità,
+ma migliorare il proprio processo di apprendimento, come imparare quale alogritmo di apprendimento è più efficace
+per un tipo di problema.
+One-shot learning acquisire nuove conoscenze o abilità con pochissimi esempi
+generalizzazione e astrazione applicare conoscenze apprese in un contesto a situazioni completamente nuove e diverse,
+estraendo i principi fondamentali piuttosto che limitarsi a pattern specifici.
+
+
+Punto 4. Capacità di modificare la pripria architettura interna, alternado la struttura stessa della rete,
+aggiungere o rimuovere moduli, o persino cambiare il tipo di algoritmo di apprendimento utilizzato.
+generazione e ottimizzazione di codice/algoritmi essere quindi in grado di scrivere e testare nuvo codice o algoritmi
+che migliorano le proprie funzionalità o ne aggiungono di nuove.
+
+
+Punto 5. comprensione del senso comune con una conoscenza implicita e vasta del mondo, che permette di fare infereze
+e previsioni basate su esperienze passate e non solo su dati specificiinte.
+Interagire attivamente con il mondo manipolare oggetti, eseguire esperimenti apprendere dai risultati di queste interazioni
+Riconoscere quando mancano dati o conoscenze e formulare query per acquisirle autonomamente.
+
+
+Punto 6. capacità di recupero dagli errori, analizzando la causa correggerla e prevenire futuri errori simili.
+Operare efficacemente in ambienti dove le informazioni sono incomplete o constraddittorie.
+
+
+COME IMPLEMENTARE L'AUTO MIGLIORAMENTO TRAMITE PROMPT LEARNING E API
